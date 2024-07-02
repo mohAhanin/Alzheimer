@@ -2,9 +2,7 @@
 https://colab.research.google.com/drive/1UggrKvK96KW6cXYW3ChS2mQJfC83MEbx?usp=sharing
 
 
-Certainly! Here's an enhanced version of your research project overview that you can consider sharing on your LinkedIn profile:
 
----
 
 🌟 **Research Project: Detecting Alzheimer's Disease Using Smart Home Sensor Data**
 
