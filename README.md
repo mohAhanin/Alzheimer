@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1UggrKvK96KW6cXYW3ChS2mQJfC83MEbx?usp=sh
 🌟 **Research Project: Detecting Alzheimer's Disease Using Smart Home Sensor Data**
 
 ### Purpose:
-I am currently working on a research project aimed at detecting Alzheimer's disease using sensor data collected from a smart home environment. The goal is to develop a robust machine learning model capable of classifying sequences of sensor events as indicative of Alzheimer's or not.
+We are currently working on a research project aimed at detecting Alzheimer's disease using sensor data collected from a smart home environment. The goal is to develop a robust machine learning model capable of classifying sequences of sensor events as indicative of Alzheimer's or not.
 
 ### Key Components:
 
