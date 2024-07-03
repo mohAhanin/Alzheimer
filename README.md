@@ -39,8 +39,7 @@ We are currently working on a research project aimed at detecting Alzheimer's di
    - Interpreting results in a clinically meaningful way.
 
 ### Potential Impact:
-If successful, this research could revolutionize Alzheimer's detection, leading to non-invasive methods for early intervention and improved patient care.
+If successful, this research could revolutionize Alzheimer's detection, leading to non-invasive methods for early intervention and improved patient care.🚀
 
 ---
 
-Feel free to customize this summary further to highlight specific achievements, collaborations, or additional context. Best of luck with your impactful work! 🚀
